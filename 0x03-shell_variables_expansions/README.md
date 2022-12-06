@@ -11,3 +11,4 @@ Task9-script that prints the result of POWER divided by DIVIDE, followed by a ne
 Task10-script that displays the result of BREATH to the power LOVE
 Task11-script that converts a number from base 2 to base 10.
 Task12-script that prints all possible combinations of two letters, except oo.
+Task13-script that prints a number with two decimal places, followed by a new line.

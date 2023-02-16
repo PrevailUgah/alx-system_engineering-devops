@@ -1,6 +1,7 @@
-# ENGINEERING DEVOPS
-__
+#       ENGINEERING DEVOPS
+___
 
-<img src="https://user-images.githubusercontent.com/117872283/219330330-0f73f24a-8eb3-42e1-be6c-caee9e1d70d4.jpg" alt="Devops" width="600px" height="300px" >
+<img src="https://user-images.githubusercontent.com/117872283/219331495-b9cf6cb1-7581-4747-a2b9-9be4852bd8ce.jpg" alt="Devops" width="1000px" height="500px" >
+
 
 
